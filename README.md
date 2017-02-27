@@ -26,5 +26,6 @@ npm install yo-yoify-standalone --save
 
 ```js
 var yoyoify = require('yo-yoify-standalone')
+
 yoyoify('src/script.js', 'dist/script.js')
 ```
