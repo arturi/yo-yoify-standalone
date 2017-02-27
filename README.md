@@ -6,7 +6,7 @@ Useful when you want to use [yo-yoify](https://github.com/shama/yo-yoify) to
 
 but can’t, or don’t want to, use browserify.
 
-See also: https://github.com/goto-bus-stop/babel-plugin-yo-yoify
+I run this before running Babel transforms. See also: https://github.com/goto-bus-stop/babel-plugin-yo-yoify
 
 # Usage
 
