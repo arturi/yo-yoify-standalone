@@ -1,0 +1,32 @@
+{
+  "name": "yo-yoify-standalone",
+  "version": "0.1.0",
+  "description": "Simple wrapper around yo-yoify transform that lets you run it without Browserify",
+  "main": "index.js",
+  "bin": "index.js",
+  "dependencies": {
+    "yo-yoify": "arturi/yo-yoify#6bf1e0d84c09c01d4a89ee9cb4da680e4aca8da6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturi/yo-yoify-standalone.git"
+  },
+  "keywords": [
+    "bel",
+    "yo-yo",
+    "choo",
+    "elements",
+    "browserify",
+    "plugin",
+    "transform"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arturi/yo-yoify-standalone/issues"
+  },
+  "homepage": "https://github.com/arturi/yo-yoify-standalone#readme"
+}
